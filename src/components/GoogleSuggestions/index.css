@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  height: 100vh;
+  background-size: cover;
+  padding: 20px;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  margin-top: 20px;
+  border-width: 1px;
+  border-color: black;
+  padding: 20px;
+  background-size: cover;
+}
+.style {
+  display: flex;
+}
+.inputStyle {
+  width: 350px;
+  border-width: 0px;
+  border-color: #ffffff;
+  margin-left: 10px;
+}
+.google-img {
+  height: 100px;
+  width: 300px;
+}
+.icon-img {
+  height: 20px;
+  width: 20px;
+}
+.unOrderedList {
+  list-style-type: none;
+}
